@@ -1,0 +1,273 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+p.List-Paragraph {
+	color:#000000;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:10px;
+	margin-left:36px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.მისამღერი {
+	color:#000000;
+	font-family:AKolkhetyN, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:6px;
+	margin-left:41px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.სათაური {
+	color:#000000;
+	font-family:AKolkhetyN, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.091;
+	margin-bottom:9px;
+	margin-left:32px;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.სათაური-შეუსწ- {
+	color:#ff0000;
+	font-family:AKolkhetyN, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.091;
+	margin-bottom:9px;
+	margin-left:32px;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.სტროფი, li.სტროფი {
+	color:#000000;
+	font-family:AKolkhetyN, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.091;
+	margin-bottom:6px;
+	margin-left:28px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-14px;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	margin-bottom:0px;
+	margin-top:0px;
+}
+p.ParaOverride-2 {
+	margin-top:0px;
+}
+li.ParaOverride-3 {
+	list-style-position:outside;
+	list-style-type:decimal;
+	margin-left:32px;
+	text-indent:0px;
+}
+p.ParaOverride-4 {
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-top:0px;
+}
+p.ParaOverride-5 {
+	margin-left:0px;
+	margin-top:0px;
+}
+p.ParaOverride-6 {
+	margin-left:9px;
+	text-indent:0px;
+}
+p.ParaOverride-7 {
+	margin-left:4px;
+	text-align:left;
+}
+p.ParaOverride-8 {
+	margin-left:0px;
+	text-indent:0px;
+}
+p.ParaOverride-9 {
+	margin-bottom:9px;
+	margin-left:0px;
+	text-indent:0px;
+}
+p.ParaOverride-10 {
+	margin-left:0px;
+	margin-top:9px;
+	text-indent:0px;
+}
+p.ParaOverride-11 {
+	margin-left:14px;
+	text-indent:0px;
+}
+p.ParaOverride-12 {
+	margin-left:0px;
+}
+p.ParaOverride-13 {
+	list-style-position:outside;
+	list-style-type:none;
+	margin-left:0px;
+	text-indent:-18px;
+}
+p.ParaOverride-14 {
+	margin-left:0px;
+	margin-top:6px;
+}
+span.CharOverride-1 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:AKolkhetyN, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	color:#000000;
+}
+span.CharOverride-4 {
+	color:#150000;
+}
+span.CharOverride-5 {
+	color:#231f0c;
+}
+span.CharOverride-6 {
+	color:#020605;
+}
+span.CharOverride-7 {
+	color:#231f20;
+}
+span.CharOverride-8 {
+	color:#231f20;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#221f1f;
+}
+span.CharOverride-10 {
+	color:#ff0000;
+}
+span.CharOverride-11 {
+	color:#ee2d2d;
+}
+span.CharOverride-12 {
+	color:#ee2d2b;
+}
+span.CharOverride-13 {
+	color:#ee2929;
+}
+span.CharOverride-14 {
+	color:#ee2d2a;
+}
+span.CharOverride-15 {
+	color:#ee2a28;
+}
+span.CharOverride-16 {
+	color:#e62326;
+}
+span.CharOverride-17 {
+	color:#072426;
+}
+span.CharOverride-18 {
+	color:#ee2624;
+}
+span.CharOverride-19 {
+	color:#ee292a;
+}
+span.CharOverride-20 {
+	color:#ee2a27;
+}
+span.CharOverride-21 {
+	color:#ee2526;
+}
+span.CharOverride-22 {
+	color:#ee312f;
+}
+span.CharOverride-23 {
+	font-family:Calibri, sans-serif;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-24 {
+	color:#0a0000;
+}
+span.CharOverride-25 {
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-26 {
+	font-family:"Courier New", serif;
+	font-style:normal;
+	font-weight:normal;
+}
+p._idGenParaOverride-1 {
+	margin-left:0px;
+}
+p._idGenParaOverride-2 {
+	margin-left:9px;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
